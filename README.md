@@ -10,4 +10,4 @@ Pueden hacer lo que quieran...
 Este mensaje fue actualizado desde GitHub
 
 
-### Esto se agrego desde el repositorio local
+### Esto se agrego desde el repositorio remoto de GITHUB
